@@ -1,0 +1,67 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>D:\OneDrive\RTU\Bakalaura darbs\Darbs\schematic\OF_link_CATV_tester\OF_link_CATV_tester-Aleksejsm.sch</h1>
+    <p>05.05.2019 11:30:57</p>
+    <p>Eeschema (5.1.0)-1</p>
+    <p><b>Component Count:</b>126</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>C1, C2, C3, C6</td><td>4</td><td>100p</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C4</td><td>1</td><td>?</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C5, C17, C27</td><td>3</td><td>100p</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C7, C8, C9, C10, C11</td><td>5</td><td>330p</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C12</td><td>1</td><td>33n</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C13</td><td>1</td><td>1n</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C14</td><td>1</td><td>1u</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C15</td><td>1</td><td>10u</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C16, C24, C25, C26</td><td>4</td><td>22u</td><td>Device:CP1_Small</td><td>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C18, C19, C20</td><td>3</td><td>10u</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0805_2012Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C21, C22, C23</td><td>3</td><td>100n</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0805_2012Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C28, C29, C31, C34, C36, C38, C39, C41, C43, C44, C45, C48, C49</td><td>13</td><td>0.1u</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C30, C32</td><td>2</td><td>1u</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C33, C35</td><td>2</td><td>0.01u</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C37, C40, C42, C46, C47, C50</td><td>6</td><td>10u</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>D1</td><td>1</td><td>850-1700nm</td><td>Device:D_Photo_ALT</td><td></td><td>Photodiode, filled shape</td><td></td></tr>
+    <tr><td>D2</td><td>1</td><td>1490nm</td><td>Device:D_Photo_ALT</td><td></td><td>Photodiode, filled shape</td><td></td></tr>
+    <tr><td>D3</td><td>1</td><td>1550nm</td><td>Device:D_Photo_ALT</td><td></td><td>Photodiode, filled shape</td><td></td></tr>
+    <tr><td>D4</td><td>1</td><td>1310nm</td><td>Device:D_Photo_ALT</td><td></td><td>Photodiode, filled shape</td><td></td></tr>
+    <tr><td>IC1</td><td>1</td><td>OPA2320</td><td>Amplifier_Operational:LTC6081xDD</td><td>Package_SO:VSSOP-10_3x3mm_P0.5mm</td><td>Precision Dual CMOS Rail-to-Rail Input/Output Amplifiers, DFN-10</td><td></td></tr>
+    <tr><td>IC3</td><td>1</td><td>ADG904-R</td><td>ADG904BRUZ-R:ADG904BRUZ-R</td><td>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</td><td>ADG904BRUZ-R, Multiplexer Single 4:1, 20-Pin, TSSOP</td><td></td></tr>
+    <tr><td>IC4</td><td>1</td><td>HMC624</td><td>HMC624ALP4E:HMC624ALP4E</td><td>Package_DFN_QFN:WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm</td><td>HMC624ALP4E, Variable Attenuator, 31.5dB, 6GHz, Maximum of 5 V 24-pin SMT</td><td></td></tr>
+    <tr><td>IC5</td><td>1</td><td>LT5537</td><td>SamacSys_Parts:LT5537EDDB#TRMPBF</td><td>Package_DFN_QFN:DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm</td><td>C RF/IF LOG DETECTOR 8-DFN</td><td></td></tr>
+    <tr><td>IC6</td><td>1</td><td>ADS1219</td><td>SamacSys_Parts:ADS1219IPWR</td><td>Package_SO:TSSOP-16_4.4x5mm_P0.65mm</td><td>24-Bit, 1kSPS, 4-Ch General-Purpose Delta-Sigma ADC With I2C Interface and External Vref Inputs</td><td></td></tr>
+    <tr><td>IC7, IC8</td><td>2</td><td>SN74CB3Q3251</td><td>SN74CB3Q3251DGVR:SN74CB3Q3251DGVR</td><td>Package_DFN_QFN:DFN-16-1EP_3x4mm_P0.45mm_EP1.7x3.3mm</td><td>1-of-8 FET Multiplexer/Demultiplexer 2.5-V/3.3-V Low-Voltage High-Bandwidth Bus Switch</td><td></td></tr>
+    <tr><td>J1</td><td>1</td><td>Conn_01x10</td><td>Connector_Generic:Conn_01x10</td><td>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</td><td>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J2, J5, J9, J12, J13</td><td>5</td><td>Conn_01x03</td><td>Connector_Generic:Conn_01x03</td><td>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</td><td>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J3</td><td>1</td><td>Screw_Terminal_01x02</td><td>Connector:Screw_Terminal_01x02</td><td>TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal</td><td>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J4</td><td>1</td><td>Conn_02x4</td><td>Connector_Generic:Conn_02x04_Odd_Even</td><td>Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical</td><td>Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J6</td><td>1</td><td>Conn_01x11</td><td>Connector_Generic:Conn_01x11</td><td>Connector_PinHeader_2.54mm:PinHeader_1x11_P2.54mm_Vertical</td><td>Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J7, J8</td><td>2</td><td>Conn_02x04</td><td>Connector_Generic:Conn_02x04_Odd_Even</td><td>Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical</td><td>Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J10, J11</td><td>2</td><td>Conn_01x12</td><td>Connector_Generic:Conn_01x12</td><td>Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical</td><td>Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>L1, L2, L3, L4, L5, L6</td><td>6</td><td>1uH</td><td>Device:L_Small</td><td>Inductor_SMD:L_0603_1608Metric</td><td>Inductor, small symbol</td><td></td></tr>
+    <tr><td>R1</td><td>1</td><td>100</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R2, R11, R12, R13, R20, R21</td><td>6</td><td>1k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R3, R15, R17, R18, R19, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40</td><td>24</td><td>10k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R4</td><td>1</td><td>100k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R5</td><td>1</td><td>1M</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R6</td><td>1</td><td>10M</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R7, R8</td><td>2</td><td>100M</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R9</td><td>1</td><td>2k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R10</td><td>1</td><td>18k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R14</td><td>1</td><td>51</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R16</td><td>1</td><td>33k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>U1</td><td>1</td><td>LM1117-5.0</td><td>Regulator_Linear:LM1117-5.0</td><td>Package_TO_SOT_SMD:SOT-223</td><td>800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-220/TO-252/TO-263/SOT-223</td><td></td></tr>
+    <tr><td>U2</td><td>1</td><td>AMS1117-3.3</td><td>Regulator_Linear:AMS1117-3.3</td><td>Package_TO_SOT_SMD:SOT-223-3_TabPin2</td><td>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</td><td></td></tr>
+    <tr><td>U3</td><td>1</td><td>LM1117-2.5</td><td>Regulator_Linear:LM1117-2.5</td><td>Package_TO_SOT_SMD:SOT-223</td><td>800mA Low-Dropout Linear Regulator, 2.5V fixed output, TO-220/TO-252/TO-263/SOT-223</td><td></td></tr>
+    <tr><td>U4, U5, U6</td><td>3</td><td>SFP-20</td><td>SamacSys_Parts:SFP-20</td><td>KiCAD:SFP-20</td><td></td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    
